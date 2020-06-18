@@ -1,2 +1,2 @@
 # Pole
-Program liczacy pole prostokata i objetosc prostopadloscianu
+Program pyta uzytkownika o dlugosci a, b, H(odpowiednio-bok,bok,wysokosc). Zadaniem programu jest policzenie pola
